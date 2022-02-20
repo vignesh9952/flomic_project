@@ -1,0 +1,87 @@
+#icons{
+    justify-content: space-between;
+    width: 100%;
+    line-height: 14px;
+    padding-top: 10px;
+    align-items: baseline;
+}
+
+#grey{
+    background-color: gray;
+}
+
+.mainsec{
+    background-image: url(landimage.png);
+}
+.login{
+    background: linear-gradient(107.04deg, #C346D5 52.6%, #501FC1 118.32%);
+border-radius: 100px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 21px;
+/* identical to box height, or 175% */
+
+letter-spacing: -0.32px;
+
+color: #FFFFFF;
+
+}
+
+.envitedtext{
+    display: inline;
+    font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 21px;
+/* identical to box height, or 84% */
+
+letter-spacing: -0.32px;
+}
+.envited{
+    justify-content: space-between;
+}
+.logo{
+    border-radius: 100px;
+}
+.envitedlogo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.facebookevent{
+    padding-top: 60px;
+    font-family: Open Sans;
+font-style: normal;
+font-weight: 800;
+font-size: 32px;
+line-height: 30px;
+/* or 94% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.32px;
+
+color: #FFFFFF;
+}
+
+.easilyhost{
+    font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 20px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.32px;
+color: white;
+padding-top: 30px;
+}
+#grey1{
+    justify-content: space-around;
+}
